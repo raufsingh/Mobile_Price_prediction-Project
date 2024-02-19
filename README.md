@@ -1,5 +1,5 @@
 # Mobile_Price_prediction-Project
-Project Summary -
+ Project Summary-
 There has been a lot of competition in the mobile phone industry, due to which nowadays the price of a mobile phone is determined by looking at many factors like RAM, Internal Memory, camera quality, battery power, screen size, and many more.
 
 Due to this, we have been given a dataset in which all the factors of mobile phones have been named as different variables. Due to this, we have to conduct a study to understand the factors affecting the price range of mobile phones.
